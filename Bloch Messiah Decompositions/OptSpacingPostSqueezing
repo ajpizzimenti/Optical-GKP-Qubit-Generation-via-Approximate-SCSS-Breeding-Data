@@ -1,0 +1,16 @@
+OptSpacingPostSqueezing = {(10*Log[(17*Pi)/4])/Log[10], 
+     (10*Log[(21*Pi)/5])/Log[10], (10*Log[(25*Pi)/6])/Log[10], 
+     (10*Log[(29*Pi)/7])/Log[10], (10*Log[(33*Pi)/8])/Log[10], 
+     (10*Log[(37*Pi)/9])/Log[10], (10*Log[(41*Pi)/10])/Log[10], 
+     (10*Log[(45*Pi)/11])/Log[10], (10*Log[(49*Pi)/12])/Log[10], 
+     (10*Log[(53*Pi)/13])/Log[10], (10*Log[(57*Pi)/14])/Log[10], 
+     (10*Log[(61*Pi)/15])/Log[10], (10*Log[(65*Pi)/16])/Log[10]}
+OptSpacingPostSqueezing = {(10*Log[(17*Pi)/4])/Log[10], 
+     (10*Log[(21*Pi)/5])/Log[10], (10*Log[(25*Pi)/6])/Log[10], 
+     (10*Log[(29*Pi)/7])/Log[10], (10*Log[(33*Pi)/8])/Log[10], 
+     (10*Log[(37*Pi)/9])/Log[10], (10*Log[(41*Pi)/10])/Log[10], 
+     (10*Log[(45*Pi)/11])/Log[10], (10*Log[(49*Pi)/12])/Log[10], 
+     (10*Log[(53*Pi)/13])/Log[10], (10*Log[(57*Pi)/14])/Log[10], 
+     (10*Log[(61*Pi)/15])/Log[10], (10*Log[(65*Pi)/16])/Log[10], 
+     (10*Log[(69*Pi)/17])/Log[10], (10*Log[(73*Pi)/18])/Log[10], 
+     (10*Log[(77*Pi)/19])/Log[10], (10*Log[(81*Pi)/20])/Log[10]}
